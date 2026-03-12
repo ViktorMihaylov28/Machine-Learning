@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|solutionrelative:MLProject\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|solutionrelative:MLProject\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\classifier.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|solutionrelative:MLProject\\classifier.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\colors.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|solutionrelative:MLProject\\colors.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\clustering.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E43EDE82-F232-4546-B7C7-2B5E9CF45991}|MLProject\\MLProject.pyproj|solutionrelative:MLProject\\clustering.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "utils.py",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\utils.py",
+              "RelativeDocumentMoniker": "MLProject\\utils.py",
+              "ToolTip": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\utils.py",
+              "RelativeToolTip": "MLProject\\utils.py",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAKcAAACVAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-07T08:43:31.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classifier.py",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\classifier.py",
+              "RelativeDocumentMoniker": "MLProject\\classifier.py",
+              "ToolTip": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\classifier.py",
+              "RelativeToolTip": "MLProject\\classifier.py",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAC6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-07T08:43:23.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clustering.py",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\clustering.py",
+              "RelativeDocumentMoniker": "MLProject\\clustering.py",
+              "ToolTip": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\clustering.py",
+              "RelativeToolTip": "MLProject\\clustering.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-07T08:43:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "colors.py",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\colors.py",
+              "RelativeDocumentMoniker": "MLProject\\colors.py",
+              "ToolTip": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\colors.py",
+              "RelativeToolTip": "MLProject\\colors.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-07T08:43:00.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\main.py",
+              "RelativeDocumentMoniker": "MLProject\\main.py",
+              "ToolTip": "C:\\Users\\User\\OneDrive - \u041C\u0438\u043D\u0438\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E \u043D\u0430 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u0435\u0442\u043E \u0438 \u043D\u0430\u0443\u043A\u0430\u0442\u0430\\Work\\School 2025-2026\\Mashinno Obuchenie 2025-2026\\MLProject\\MLProject\\main.py",
+              "RelativeToolTip": "MLProject\\main.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAVAwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-03-07T08:42:23.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
